@@ -1,0 +1,14 @@
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\bin\Debug\net8.0\Calc.exe
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\bin\Debug\net8.0\Calc.deps.json
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\bin\Debug\net8.0\Calc.dll
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\bin\Debug\net8.0\Calc.pdb
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.dll
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\refint\Calc.dll
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.pdb
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\ref\Calc.dll

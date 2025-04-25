@@ -12,3 +12,4 @@ F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\refint\
 F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.pdb
 F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
 F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\ref\Calc.dll
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Calc\Calc\obj\Debug\net8.0\Calc.sourcelink.json

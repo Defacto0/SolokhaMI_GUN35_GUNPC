@@ -1,0 +1,7 @@
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\HomeWork\HomeWork\obj\Debug\HomeWork.pdb

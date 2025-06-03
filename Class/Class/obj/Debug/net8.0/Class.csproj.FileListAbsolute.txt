@@ -1,0 +1,15 @@
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\bin\Debug\net8.0\Class.exe
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\bin\Debug\net8.0\Class.deps.json
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\bin\Debug\net8.0\Class.runtimeconfig.json
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\bin\Debug\net8.0\Class.dll
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\bin\Debug\net8.0\Class.pdb
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.AssemblyInfoInputs.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.AssemblyInfo.cs
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.csproj.CoreCompileInputs.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.sourcelink.json
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.dll
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\refint\Class.dll
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.pdb
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\Class.genruntimeconfig.cache
+F:\Unity проекты\SolokhaMI_GUN35_GUNPC\Class\Class\obj\Debug\net8.0\ref\Class.dll

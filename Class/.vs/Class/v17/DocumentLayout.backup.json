@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9696C9D5-5CC3-4921-981E-629FD3BC25CD}|Class\\Class.csproj|f:\\unity \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\solokhami_gun35_gunpc\\class\\class\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9696C9D5-5CC3-4921-981E-629FD3BC25CD}|Class\\Class.csproj|solutionrelative:class\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9696C9D5-5CC3-4921-981E-629FD3BC25CD}|Class\\Class.csproj|f:\\unity \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\solokhami_gun35_gunpc\\class\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9696C9D5-5CC3-4921-981E-629FD3BC25CD}|Class\\Class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "Class\\Class1.cs",
               "ToolTip": "F:\\Unity \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\SolokhaMI_GUN35_GUNPC\\Class\\Class\\Class1.cs",
               "RelativeToolTip": "Class\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T11:53:51.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Unity \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\SolokhaMI_GUN35_GUNPC\\Class\\Class\\Program.cs",
-              "RelativeDocumentMoniker": "Class\\Program.cs",
-              "ToolTip": "F:\\Unity \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\SolokhaMI_GUN35_GUNPC\\Class\\Class\\Program.cs",
-              "RelativeToolTip": "Class\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:52:41.039Z",
               "EditorCaption": ""
             }
           ]
